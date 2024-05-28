@@ -1,4 +1,4 @@
-# tetris_client.py
+# tetris algorithm
 
 from random import randrange as rand
 import pygame
